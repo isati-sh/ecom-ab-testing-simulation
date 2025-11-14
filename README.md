@@ -19,6 +19,8 @@ Two CSV files were used:
 - `ab_data.csv`: contains experiment group, landing page, and conversion label  
 - `countries.csv`: maps each user to a country  
 
+ ### Source : https://www.kaggle.com/datasets/putdejudomthai/ecommerce-ab-testing-2022-dataset1
+
 After merging on `user_id`, the resulting dataset includes:
 | Column | Description |
 |--------|--------------|
